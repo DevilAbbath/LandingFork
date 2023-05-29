@@ -153,9 +153,9 @@ p {
 
 @media only screen and (max-width : 767px) {
   .blog__inner {
-    padding-top: 2vh;
+    padding-top: 1vh;
     padding-left: 15vw;
-    padding-bottom: 5vh;
+    padding-bottom: 3vh;
   }
   .blog__inner h3 {
     font-size: 2em;
@@ -381,6 +381,7 @@ p {
   background-color: #325DFF;
   padding: 5vw 1rem;
   text-align: center;
+  vertical-align: middle;
 }
 
 .footer_di-buffala small {
